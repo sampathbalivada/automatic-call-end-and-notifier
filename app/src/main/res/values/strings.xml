@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecieverStatusNotifier</string>
+    <string name="action_settings">Settings</string>
+    <string name="page_title">Send Text Message to caller when busy</string>
+    <string name="send_sms_button">Send SMS</string>
+    <string name="read_caller_id_button">Read Caller ID</string>
+    <string name="no_caller_id">No Caller ID Detected</string>
+</resources>
